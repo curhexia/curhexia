@@ -1,8 +1,9 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there!&fontSize=40&animation=fadeIn" />
+</p>
 
 ## About Me
-Interested in neuroscience and AGI
+Interested in neuroscience and AGI.
 
 ## Connect
 
@@ -18,4 +19,7 @@ Interested in neuroscience and AGI
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+
+-----
 
